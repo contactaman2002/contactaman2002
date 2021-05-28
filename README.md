@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @contactaman2002.
+- 👋 Hi, I’m Aman Singh Chauhan (@contactaman2002).
 - 👀 I’m interested in Machine Learing And Data Science.
 - 🌱 I’m currently learning Machine Learing.
 - 💞️ I havn't collaborated anywhere yet. 
